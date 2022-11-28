@@ -1,2 +1,0 @@
-# Math-CP
-Learning things
